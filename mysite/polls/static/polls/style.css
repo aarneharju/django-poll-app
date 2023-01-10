@@ -1,0 +1,8 @@
+li a {
+    color: green;
+    background-color: bisque;
+}
+
+li a:visited {
+    color: red;
+}
